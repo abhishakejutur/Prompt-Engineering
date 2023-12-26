@@ -1,5 +1,5 @@
 > # **Prompt Engineering**
->> ## **Task 1**
+>> ## **Task 1 : **DALL·E 2
 >>> ## **Prompt 1 :** _'An illustration of a baby daikon radish in a tutu walking a dog'_.
 >>> ![IMG_20231226_195035](https://github.com/abhishakejutur/Prompt-Engineering/assets/91953148/5a26d116-0422-4c1b-8260-b45530730594)
 >> #
