@@ -154,5 +154,7 @@ while True:
 ```
 
 # **Output :**
+![Screenshot (61)](https://github.com/abhishakejutur/Prompt-Engineering/assets/91953148/00363752-43fd-4894-aef8-39646b8aa5eb)
 
-![Screenshot%20%2861%29.png](attachment:Screenshot%20%2861%29.png)
+
+
