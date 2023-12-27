@@ -1,17 +1,9 @@
-```python
+
 import openai
-```
 
-
-
-
-```python
 # openai.api_key = "your secret API Key"
 openai.api_key = "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"
-```
 
-
-```python
 # this loop will let us ask questions continuously
 
 while True:
@@ -41,29 +33,34 @@ while True:
     
     # printing response
     print(response)
-```
-**Output :**
-```
-    
-    Enter new prompt: Which is the largest country by area in the world?
-    
-    
-    Russia is the largest country in the world by area, with a total landmass of 17,098,242 square kilometers (6,601,668 square miles).
-    Enter new prompt: population to top 5 countries
-    
-    
-    1. China - 1.4 billion
-    2. India - 1.3 billion
-    3. United States - 330 million
-    4. Indonesia - 270 million
-    5. Brazil - 210 million
-    Enter new prompt: top 5 football players in the world
+
+
+
+
+
+
+
+'''
+Output :
+Enter new prompt: Which is the largest country by area in the world?
     
     
-    1. Lionel Messi
-    2. Cristiano Ronaldo
-    3. Neymar Jr.
-    4. Robert Lewandowski
-    5. Kylian Mbappe
-    Enter new prompt: exit
+Russia is the largest country in the world by area, with a total landmass of 17,098,242 square kilometers (6,601,668 square miles).
+Enter new prompt: population to top 5 countries
     
+    
+1. China - 1.4 billion
+2. India - 1.3 billion
+3. United States - 330 million
+4. Indonesia - 270 million
+5. Brazil - 210 million
+Enter new prompt: top 5 football players in the world
+    
+    
+1. Lionel Messi
+2. Cristiano Ronaldo
+3. Neymar Jr.
+4. Robert Lewandowski
+5. Kylian Mbappe
+Enter new prompt: exit
+'''    
