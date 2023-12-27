@@ -7,5 +7,5 @@
 >>> ![Screenshot (63)](https://github.com/abhishakejutur/Prompt-Engineering/assets/91953148/e39f6622-4671-4110-84af-4300e43d146d)
 >> #
 >>> ## **Create a MySQL query (Python)**
->>> ![Screenshot (64)](https://github.com/abhishakejutur/Prompt-Engineering/assets/91953148/77db1358-57bb-4d7a-ac27-71365a3aacb7)
+>>> ![Screenshot (66)](https://github.com/abhishakejutur/Prompt-Engineering/assets/91953148/fca63724-99be-4177-be89-6505d7123cdf)
 >> #
