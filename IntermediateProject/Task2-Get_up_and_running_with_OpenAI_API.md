@@ -52,6 +52,6 @@ This script sends a request to the OpenAI API using the `text-davinci-003` engin
 
 Ensure that your Python environment is correctly set up, and the `openai` library is installed (`pip install openai`) before running the script. Adjust the code or parameters as needed based on your API usage or requirements.
 #
-# **Output (Screenshot) : **
+# **Output (Screenshot) :**
 ![Screenshot (68)](https://github.com/abhishakejutur/Prompt-Engineering/assets/91953148/a94087cf-7c12-47d3-9f59-93c5f965acf9)
 #
