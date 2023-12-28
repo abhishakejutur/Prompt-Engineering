@@ -1,5 +1,5 @@
-># **Basic Project**
->># **Task 1 : DALL·E 2**
+> # **Basic Project**
+>> # **Task 1 : DALL·E 2**
 >> **Prompts to make Text to Art**
 >> - **Text Prompt :** an illustration of a baby daikon radish in a tutu walking a dog
 >> - **Text Prompt :** an armchair in the shape of an avocado.
@@ -12,3 +12,4 @@
 >> Login with Google >> 3D >> 3D Texture >> Add Prompt to Generate
 >> # **Task 3: Chatbot for FAQs**
 >> **Description:** Create a basic chatbot application like GPT-3 to answer frequently asked questions (FAQs) on a specific topic. Users can interact with the chatbot by typing questions, and the chatbot will provide relevant answers. This project introduces the basics of integrating a chatbot into a website or application.
+> #
